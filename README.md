@@ -1,2 +1,3 @@
 # fake-instagram-hacker
-fake instagram hacker by Ali
+fake instagram hacker by dead-ali
+Telegram ID = @Dead_Ali
